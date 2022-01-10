@@ -1,0 +1,4 @@
+# 注册依赖
+require:
+    - "test/preparation.js" #自定义测试环境
+    - "@babel/register"
